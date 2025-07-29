@@ -2,6 +2,10 @@
 
 > A powerful Model Context Protocol (MCP) server for reading and analyzing Excel documents with advanced features.
 
+<a href="https://glama.ai/mcp/servers/@guangxiangdebizi/xlsx-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@guangxiangdebizi/xlsx-mcp/badge" alt="XLSX Reader MCP server" />
+</a>
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3+-blue.svg)](https://www.typescriptlang.org/)
 [![MCP SDK](https://img.shields.io/badge/MCP%20SDK-0.6.0-green.svg)](https://github.com/modelcontextprotocol/sdk)
